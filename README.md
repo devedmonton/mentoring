@@ -4,7 +4,13 @@ Dev Edmonton Mentorin is the place to ask questions that involve more then a Sta
 You can find an ongoing discussion of Mentorhsip in the [Dev Edmonton](https://devedmonton.com/) [#Mentorship](https://devedmonton.slack.com/messages/CG3NB1P8E) channel in [Slack](https://slack.com/intl/en-ca/).
 
 ## Upcoming Mentorship Calls
-Friday, October 11th at 12pm (Zoom link to be posted shortly).
+Friday, October 11th at 12pm
+Mark Bennett answering Javascript and Rails questions
+
+https://zoom.us/j/910866490?pwd=YUlmU0QwdFh6SkFGNE4wMHlidWVpZz09
+
+Meeting ID: 910 866 490
+Password: 022380
 
 ### Asking Questions
 You can ask your question during the Mentorship Call.  Just attend the call and wait until the mondirator prompts you.  We do our best to get every questions answered but of course we can't gurentee it.
