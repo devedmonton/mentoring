@@ -1,5 +1,5 @@
 # Dev Edmonton Mentoring
-Dev Edmonton Mentorin is the place to ask questions that involve more then a Stack Overlow answer.  Questions that require some discussion.  Answers that include the why as well as the what.  Questions answered by local developers who you likely have, or will, meeting person at one of the many local Edmonton Meetups.
+Dev Edmonton Mentoring is the place to ask questions that involve more then a Stack Overlow answer.  Questions that require some discussion.  Answers that include the why as well as the what.  Questions answered by local developers who you likely have, or will, meet person at one of the many local Edmonton Meetups.
 
 You can find an ongoing discussion of Mentorhsip in the [Dev Edmonton](https://devedmonton.com/) [#Mentorship](https://devedmonton.slack.com/messages/CG3NB1P8E) channel in [Slack](https://slack.com/intl/en-ca/).
 
