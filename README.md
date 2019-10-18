@@ -4,13 +4,8 @@ Dev Edmonton Mentoring is the place to ask questions that involve more then a St
 You can find an ongoing discussion of Mentorhsip in the [Dev Edmonton](https://devedmonton.com/) [#Mentorship](https://devedmonton.slack.com/messages/CG3NB1P8E) channel in [Slack](https://slack.com/intl/en-ca/).
 
 ## Upcoming Mentorship Calls
-### Mark Bennett answering Javascript and Rails questions
-**Friday, October 11th, at 12pm MT**
-
-https://zoom.us/j/910866490?pwd=YUlmU0QwdFh6SkFGNE4wMHlidWVpZz09
-
-Meeting ID: 910 866 490
-Password: 022380
+### Grant Hunter answering DevOps and Infrastructure questions
+** Friday, October 25th, at 12pm MT**
 
 ## Attending the Mentorship Call
 To attend the call you need to install [Zoom](https://zoom.us/).  You only need the free version/plan of Zoom.  Once Zoom is installed please check your microphone and speakers to make sure they are working.  If you have issues installing Zoom then please open an [issue](https://github.com/devedmonton/mentoring/issues).
@@ -23,3 +18,10 @@ It is much appreaciated if you post your question in advance as an [issue](https
 Can't attend the Mentorship Call?  Then posting your question to [issues](https://github.com/devedmonton/mentoring/issues) and we will try to get it to during the call for you to watch later.
 
 In summary [post](https://github.com/devedmonton/mentoring/issues) your question in advance but it is not requirement.
+
+## Past Calls
+
+### Mark Bennett answering Javascript and Rails questions
+**Friday, October 11th, at 12pm MT**
+
+[Mark](https://markbennett.ca) runs [Burnis Studio](http://burmis.ca/) and helped found [Dev Edmonton](https://devedmonton.com/).
