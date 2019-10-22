@@ -7,6 +7,8 @@ You can find an ongoing discussion of Mentorhsip in the [Dev Edmonton](https://d
 ### Grant Hunter answering DevOps and Infrastructure questions
 ** Friday, October 25th, at 12pm MT**
 
+Grant works at [Drivewize](https://drivewyze.com/) and hosts both the [Startup Edmonton](https://www.meetup.com/startupedmonton/) DevOps and Mobile Developers meetups.
+
 ## Attending the Mentorship Call
 To attend the call you need to install [Zoom](https://zoom.us/).  You only need the free version/plan of Zoom.  Once Zoom is installed please check your microphone and speakers to make sure they are working.  If you have issues installing Zoom then please open an [issue](https://github.com/devedmonton/mentoring/issues).
 
