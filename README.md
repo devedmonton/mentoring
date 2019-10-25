@@ -9,7 +9,8 @@ You can find an ongoing discussion of Mentorship in the [Dev Edmonton](https://d
 
 Grant works at [Drivewize](https://drivewyze.com/) and hosts both the [Startup Edmonton](https://www.meetup.com/startupedmonton/) DevOps and Mobile Developers meetups.  You can pre-ask your question by creating an [issue](https://github.com/devedmonton/mentoring/issues), tagging it with [DevOps](https://github.com/devedmonton/mentoring/issues?q=is%3Aopen+is%3Aissue+label%3Adevops).
 
-Zoom link will be posted closer to the event.
+Zoom link:
+https://zoom.us/j/139518279?pwd=TDJWa3lmWElTa1l0QmxucmozY0hpZz09
 
 ## Attending the Mentorship Call
 To attend the call you need to install [Zoom](https://zoom.us/).  You only need the free version/plan of Zoom.  Once Zoom is installed please check your microphone and speakers to make sure they are working.  If you have issues installing Zoom then please open an [issue](https://github.com/devedmonton/mentoring/issues).
