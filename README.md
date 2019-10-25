@@ -4,13 +4,7 @@ Dev Edmonton Mentoring is the place to ask questions that involve more then a St
 You can find an ongoing discussion of Mentorship in the [Dev Edmonton](https://devedmonton.com/) [#Mentorship](https://devedmonton.slack.com/messages/CG3NB1P8E) channel in [Slack](https://slack.com/intl/en-ca/).
 
 ## Upcoming Mentorship Calls
-### Grant Hunter answering DevOps and Infrastructure questions
-**Friday, October 25th, at 12pm MT**
 
-Grant works at [Drivewize](https://drivewyze.com/) and hosts both the [Startup Edmonton](https://www.meetup.com/startupedmonton/) DevOps and Mobile Developers meetups.  You can pre-ask your question by creating an [issue](https://github.com/devedmonton/mentoring/issues), tagging it with [DevOps](https://github.com/devedmonton/mentoring/issues?q=is%3Aopen+is%3Aissue+label%3Adevops).
-
-Zoom link:
-https://zoom.us/j/139518279?pwd=TDJWa3lmWElTa1l0QmxucmozY0hpZz09
 
 ## Attending the Mentorship Call
 To attend the call you need to install [Zoom](https://zoom.us/).  You only need the free version/plan of Zoom.  Once Zoom is installed please check your microphone and speakers to make sure they are working.  If you have issues installing Zoom then please open an [issue](https://github.com/devedmonton/mentoring/issues).
@@ -26,7 +20,12 @@ In summary [post](https://github.com/devedmonton/mentoring/issues) your question
 
 ## Past Calls
 
+### Grant Hunter answering DevOps and Infrastructure questions
+**Friday, October 25th, at 12pm MT**
+
+Grant works at [Drivewize](https://drivewyze.com/) and hosts both the [Startup Edmonton](https://www.meetup.com/startupedmonton/) DevOps and Mobile Developers meetups.  You can pre-ask your question by creating an [issue](https://github.com/devedmonton/mentoring/issues), tagging it with [DevOps](https://github.com/devedmonton/mentoring/issues?q=is%3Aopen+is%3Aissue+label%3Adevops).
+
 ### Mark Bennett answering Javascript and Rails questions
-**Friday, October 11th, at 12pm MT**
+**Friday, October 11th, at 12pm MT** ([Watch](https://www.youtube.com/watch?v=vz58hs_uX2I))
 
 [Mark](https://markbennett.ca) runs [Burnis Studio](http://burmis.ca/) and helped found [Dev Edmonton](https://devedmonton.com/).
