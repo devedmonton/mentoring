@@ -21,9 +21,9 @@ In summary [post](https://github.com/devedmonton/mentoring/issues) your question
 ## Past Calls
 
 ### Grant Hunter answering DevOps and Infrastructure questions
-**Friday, October 25th, at 12pm MT**
+**Friday, October 25th, at 12pm MT** ([Watch](https://www.youtube.com/watch?v=Yv-ELQW4dag))
 
-Grant works at [Drivewize](https://drivewyze.com/) and hosts both the [Startup Edmonton](https://www.meetup.com/startupedmonton/) DevOps and Mobile Developers meetups.  You can pre-ask your question by creating an [issue](https://github.com/devedmonton/mentoring/issues), tagging it with [DevOps](https://github.com/devedmonton/mentoring/issues?q=is%3Aopen+is%3Aissue+label%3Adevops).
+Grant works at [Drivewize](https://drivewyze.com/) and hosts both the [Startup Edmonton](https://www.meetup.com/startupedmonton/) DevOps and Mobile Developers meetups.
 
 ### Mark Bennett answering Javascript and Rails questions
 **Friday, October 11th, at 12pm MT** ([Watch](https://www.youtube.com/watch?v=vz58hs_uX2I))
